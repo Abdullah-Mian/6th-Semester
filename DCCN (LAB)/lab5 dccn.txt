@@ -1,0 +1,93 @@
+vty	virtual terminal lines --> Remote Connections
+
+
+`*RUNNING CONFIGURATION*`
+
+Router Config display Command:
+`show run ..`
+
+
+`Enable Secret` PASSWORD is Encrypted.
+Encrypted text instead of password.
+
+
+Config
+==>Startup Config
+
+To save config:
+`copy run st..`
+Y
+
+
+show start
+copy run start
+
+
+Also we can make own config by copying and saving file
+Encrypted password must be replaced with original plain one.
+
+----------------------------------------------------
+R0:
+enable
+config t
+int fa 0/0
+ip add 192.168.1.1 255.255.255.0
+no shut
+
+int se 2/0
+ip add ----
+cl ra 9600
+no shut
+
+
+R1:
+192.168.3.2 255.255.255.0
+no shut
+show ip int br
+show ip route
+
+
+--------------------------------
+LAB 5
+#At R1
+config t
+router ?
+#See Next Hop Address (192.168.3.2) 
+#Destination Network 192.168.2.0 255.255.255.0 ##NOT HOST
+
+ip route 192.168.2.0 255.255.255.0 192.168.3.2
+
+#exit
+show ip route
+
+
+##Then ping (Request Timed out)
+
+
+#R2
+#Next Hop 192.168.3.1
+#Destination 192.168.1.0/24
+config t
+ip route 192.168.1.0 255.255.255.0 192.168.3.1
+
+##Ping Successful
+
+
+## WE Can Add more devices to both sides too at switches
+
+
+3rd LAN Network (3rd router included)
+
+config t
+
+
+-----------------------------
+ip route
+
+
+R1 R3 R2
+
+
+
+##HIGHEST IP ROUTER CREATE THEIR IDENTIFIERS (Names)
+
