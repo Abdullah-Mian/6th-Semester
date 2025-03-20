@@ -1,12 +1,295 @@
-($%8?k-8kvk9.:>"9.cl-8lbpA($%8?k/$(3kvk9.:>"9.cl/$(3lbpA($%8?k0k$(>&.%?gk*( .9gk*9*,9*;#gk.3?>%gk&*,.>%gk*)'.gk*)'.$<gk*)'..''gk"/?#2;.k6kvk/$(3pAA*82%(k->%(?"$%k(9.*?.$(>&.%?cbk0Akkkk($%8?k/$(kvk%.<k$(>&.%?c0Akkkkkkkk8.(?"$%8qkAkkkkkkkkkkkk0Akkkkkkkkkkkkkkkk;9$;.9?".8qk06gAkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkddk"?'.k.(?"$%Akkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki
-k%"=.98"?2k8'*&*)*/gk*#$9.k*&;>8igAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk)$'/qk?9>.gAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk8"1.qkygAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk*'",%&.%?qkl(.%?.9lgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki.;*9?&.%?k$-k'.(?9"(*'k*%/k$&;>?.9k%,"%..9"%,igAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk8"1.qkygAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk*'",%&.%?qkl(.%?.9lgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki}ykfk
-9?"-"("*'k%?.''",.%(.igAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk8"1.qkygAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk*'",%&.%?qkl(.%?.9lgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki
-88",%&.%?kzigAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk8"1.qkygAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk*'",%&.%?qkl(.%?.9lgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkddk?>/.%?k%-$Akkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki*&.qk
-)/>''*#k*..:igAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk8"1.qky{gAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk*'",%&.%?qkl'.-?lgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki.,k$qk
-yyf	f{y}igAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk8"1.qky{gAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk*'",%&.%?qkl'.-?lgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkddk8.>/$($/.k.(?"$%Akkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki8.>/$($/.k-$9k"&;'.k"%.*9k.,9.88"$%igAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk)$'/qk?9>.gAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk8"1.qky{gAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk#.*/"%,qkl.*/"%,zlgAkkkkkkkkkkkkkkkkkkkkkkkk8;*("%,qk0k).-$9.qk{{k6gAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki"&;'.k"%.*9k.,9.88"$%k.*9%"%,k
-',$9"?#&qigAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk)$'/qk?9>.gAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki%;>?qk9*"%"%,k/*?*k?9*"%kc*99*2k$-k.*98k$-k3;.9".%(.bgk2?9*"%kc*99*2k$-k*'*92bigAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki>?;>?qk$.--"(".%?8k){kc"%?.9(.;?bgk)zkc8'$;.bigAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qkizek*'(>'*?.k%kvk'.%,?#k$-k?9*"%igAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qkiyek*'(>'*?.k8>&3kvk8>&k$-k*''k.'.&.%?8k"%k?9*"%igAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qkixek*'(>'*?.k8>&2kvk8>&k$-k*''k.'.&.%?8k"%k2?9*"%igAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qkiek*'(>'*?.k8>&32kvk8>&k$-kc?9*"%"kak2?9*"%"bk-$9k"k-9$&k{k?$k%fzigAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki~ek*'(>'*?.k8>&3ykvk8>&k$-kc?9*"%"ybk-$9k"k-9$&k{k?$k%fzigAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki}ek*'(>'*?.k)zkvkc%kak8>&32kfk8>&3kak8>&2bkdkc%kak8>&3ykfk8>&3ybigAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki|ek*'(>'*?.k){kvkc8>&2kfk)zkak8>&3bkdk%igAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qkisek.?>9%k){gk)zigAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkddk*%>*'k&;'.&.%?*?"$%k(*??.9k'$?Akkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki(*??.9k'$?k*%/k.,9.88"$%k"%.kc*%>*'k&;'.&.%?*?"$%bigAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk)$'/qk?9>.gAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk8"1.qky{gAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk#.*/"%,qkl.*/"%,zlgAkkkkkkkkkkkkkkkkkkkkkkkk8;*("%,qk0k).-$9.qk{{k6gAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k&*,.>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk/*?*qk-8e9.*/"'.2%(cl&*%>*'9.,9.88"$%e;%,lbgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?9*%8-$9&*?"$%qk0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk<"/?#qk~{{gAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk#.",#?qkx{{gAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk6gAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk*'",%&.%?qkl(.%?.9lgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki",>9.kzqk(*??.9k'$?k*%/k.,9.88"$%k"%.k-9$&k*%>*'k"%.*9k.,9.88"$%igAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"?*'"(8qk?9>.gAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk*'",%&.%?qkl(.%?.9lgAkkkkkkkkkkkkkkkkkkkkkkkk8;*("%,qk0k*-?.9qky{{k6gAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkddk8 '.*9%k&;'.&.%?*?"$%k(*??.9k'$?Akkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki(*??.9k'$?k*%/k.,9.88"$%k"%.kc8 '.*9%k&;'.&.%?*?"$%bigAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk)$'/qk?9>.gAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk8"1.qky{gAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk#.*/"%,qkl.*/"%,zlgAkkkkkkkkkkkkkkkkkkkkkkkk8;*("%,qk0k).-$9.qk{{k6gAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k&*,.>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk/*?*qk-8e9.*/"'.2%(cl8 '.*9%9.,9.88"$%e;%,lbgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?9*%8-$9&*?"$%qk0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk<"/?#qk~{{gAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk#.",#?qkx{{gAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk6gAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk*'",%&.%?qkl(.%?.9lgAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki",>9.kyqk(*??.9k'$?k*%/k.,9.88"$%k"%.k-9$&k8 '.*9%k"%.*9k.,9.88"$%igAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"?*'"(8qk?9>.gAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk*'",%&.%?qkl(.%?.9lgAkkkkkkkkkkkkkkkkkkkkkkkk8;*("%,qk0k*-?.9qky{{k6gAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkddk*)'.k$-k$.--"(".%?8Akkkkkkkkkkkkkkkkkkkk%.<k*9*,9*;#c0Akkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k.3?>%c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk?.3?qki*)'.k$-k$.--"(".%?8igAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk)$'/qk?9>.gAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk8"1.qky{gAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk#.*/"%,qkl.*/"%,zlgAkkkkkkkkkkkkkkkkkkkkkkkk8;*("%,qk0k).-$9.qk{{k6gAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkk%.<k*)'.c0Akkkkkkkkkkkkkkkkkkkkkkkk9$<8qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k*)'.$<c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k*)'..''c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qk%.<k*9*,9*;#ci$/.'ibgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk<"/?#qk0k8"1.qkxxgk?2;.qk"/?#2;.e
-k6gAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k*)'..''c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qk%.<k*9*,9*;#ci%?.9(.;?ibgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk<"/?#qk0k8"1.qkxxgk?2;.qk"/?#2;.e
-k6gAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k*)'..''c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qk%.<k*9*,9*;#ci'$;.ibgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk<"/?#qk0k8"1.qkxxgk?2;.qk"/?#2;.e
-k6gAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k*)'.$<c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k*)'..''c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qk%.<k*9*,9*;#ci*%>*'k&;'.&.%?*?"$%ibgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k*)'..''c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qk%.<k*9*,9*;#ciy~y{yesribgkddk.;'*(.k<"?#k*(?>*'k=*'>.Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k*)'..''c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qk%.<k*9*,9*;#cir|xzey{ibgkkddk.;'*(.k<"?#k*(?>*'k=*'>.Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k*)'.$<c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qkAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k*)'..''c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qk%.<k*9*,9*;#ci8 '.*9%k&;'.&.%?*?"$%ibgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k*)'..''c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qk%.<k*9*,9*;#ciy~y{yesribgkddk.;'*(.k<"?#k*(?>*'k=*'>.Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk%.<k*)'..''c0Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk(#"'/9.%qk%.<k*9*,9*;#cir|xzey{ibgkkddk.;'*(.k<"?#k*(?>*'k=*'>.Akkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkkkkkkkkkgAkkkkkkkkkkkkkkkkkkkkkkkk<"/?#qk0k8"1.qkz{{gk?2;.qk"/?#2;.e
-k6gAkkkkkkkkkkkkkkkkkkkk6bgAkkkkkkkkkkkkkkkkgAkkkkkkkkkkkk6gAkkkkkkkkgAkkkk6bpAAkkkk($%8?k)>--.9kvk*<*"?k*( .9e?$	>--.9c/$(bpAkkkk-8e<9"?."'.2%(cl
-88",%&.%?ze/$(3lgk)>--.9bpAkkkk($%8$'.e'$,cl$(>&.%?k(9.*?./k8>((.88->''2lbpA6AA(9.*?.$(>&.%?cbe(*?(#c.99kvuk($%8$'.e.99$9cl99$9k(9.*?"%,k/$(>&.%?qlgk.99bbp
+const fs = require('fs');
+const docx = require('docx');
+const { Document, Packer, Paragraph, TextRun, ImageRun, Table, TableRow, TableCell, WidthType } = docx;
+
+async function createDocument() {
+    const doc = new Document({
+        sections: [
+            {
+                properties: {},
+                children: [
+                    // Title Section
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "COMSATS University Islamabad, Lahore Campus",
+                                bold: true,
+                                size: 24,
+                            }),
+                        ],
+                        alignment: 'center',
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Department of Electrical and Computer Engineering",
+                                size: 24,
+                            }),
+                        ],
+                        alignment: 'center',
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "CSC462 - Artificial Intelligence",
+                                size: 24,
+                            }),
+                        ],
+                        alignment: 'center',
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Assignment 1",
+                                size: 24,
+                            }),
+                        ],
+                        alignment: 'center',
+                    }),
+                    // Student Info
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Name: Abdullah Laeeq",
+                                size: 20,
+                            }),
+                        ],
+                        alignment: 'left',
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Reg No: FA22-BCE-026",
+                                size: 20,
+                            }),
+                        ],
+                        alignment: 'left',
+                    }),
+                    // Pseudocode Section
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Pseudocode for Simple Linear Regression",
+                                bold: true,
+                                size: 20,
+                            }),
+                        ],
+                        heading: 'Heading1',
+                        spacing: { before: 400 },
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Simple Linear Regression Learning Algorithm:",
+                                bold: true,
+                            }),
+                        ],
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Input: Training data X_train (array of Years of Experience), y_train (array of Salary)",
+                            }),
+                        ],
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Output: Coefficients b0 (intercept), b1 (slope)",
+                            }),
+                        ],
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "1. Calculate n = length of X_train",
+                            }),
+                        ],
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "2. Calculate sum_x = sum of all elements in X_train",
+                            }),
+                        ],
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "3. Calculate sum_y = sum of all elements in y_train",
+                            }),
+                        ],
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "4. Calculate sum_xy = sum of (X_train[i] * y_train[i]) for i from 0 to n-1",
+                            }),
+                        ],
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "5. Calculate sum_x2 = sum of (X_train[i]^2) for i from 0 to n-1",
+                            }),
+                        ],
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "6. Calculate b1 = (n * sum_xy - sum_x * sum_y) / (n * sum_x2 - sum_x^2)",
+                            }),
+                        ],
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "7. Calculate b0 = (sum_y - b1 * sum_x) / n",
+                            }),
+                        ],
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "8. Return b0, b1",
+                            }),
+                        ],
+                    }),
+                    // Manual Implementation Scatter Plot
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Scatter Plot and Regression Line (Manual Implementation)",
+                                bold: true,
+                                size: 20,
+                            }),
+                        ],
+                        heading: 'Heading1',
+                        spacing: { before: 400 },
+                    }),
+                    new Paragraph({
+                        children: [
+                            new ImageRun({
+                                data: fs.readFileSync('manual_regression.png'),
+                                transformation: {
+                                    width: 500,
+                                    height: 300,
+                                },
+                            }),
+                        ],
+                        alignment: 'center',
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Figure 1: Scatter Plot and Regression Line from Manual Linear Regression",
+                                italics: true,
+                            }),
+                        ],
+                        alignment: 'center',
+                        spacing: { after: 200 },
+                    }),
+                    // sklearn Implementation Scatter Plot
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Scatter Plot and Regression Line (sklearn Implementation)",
+                                bold: true,
+                                size: 20,
+                            }),
+                        ],
+                        heading: 'Heading1',
+                        spacing: { before: 400 },
+                    }),
+                    new Paragraph({
+                        children: [
+                            new ImageRun({
+                                data: fs.readFileSync('sklearn_regression.png'),
+                                transformation: {
+                                    width: 500,
+                                    height: 300,
+                                },
+                            }),
+                        ],
+                        alignment: 'center',
+                    }),
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Figure 2: Scatter Plot and Regression Line from sklearn Linear Regression",
+                                italics: true,
+                            }),
+                        ],
+                        alignment: 'center',
+                        spacing: { after: 200 },
+                    }),
+                    // Table of Coefficients
+                    new Paragraph({
+                        children: [
+                            new TextRun({
+                                text: "Table of Coefficients",
+                                bold: true,
+                                size: 20,
+                            }),
+                        ],
+                        heading: 'Heading1',
+                        spacing: { before: 400 },
+                    }),
+                    new Table({
+                        rows: [
+                            new TableRow({
+                                children: [
+                                    new TableCell({
+                                        children: [new Paragraph("Model")],
+                                        width: { size: 33, type: WidthType.PERCENTAGE },
+                                    }),
+                                    new TableCell({
+                                        children: [new Paragraph("Intercept")],
+                                        width: { size: 33, type: WidthType.PERCENTAGE },
+                                    }),
+                                    new TableCell({
+                                        children: [new Paragraph("Slope")],
+                                        width: { size: 33, type: WidthType.PERCENTAGE },
+                                    }),
+                                ],
+                            }),
+                            new TableRow({
+                                children: [
+                                    new TableCell({
+                                        children: [new Paragraph("Manual Implementation")],
+                                    }),
+                                    new TableCell({
+                                        children: [new Paragraph("25202.89")], // Replace with actual value
+                                    }),
+                                    new TableCell({
+                                        children: [new Paragraph("9731.20")],  // Replace with actual value
+                                    }),
+                                ],
+                            }),
+                            new TableRow({
+                                children: [
+                                    new TableCell({
+                                        children: [new Paragraph("sklearn Implementation")],
+                                    }),
+                                    new TableCell({
+                                        children: [new Paragraph("25202.89")], // Replace with actual value
+                                    }),
+                                    new TableCell({
+                                        children: [new Paragraph("9731.20")],  // Replace with actual value
+                                    }),
+                                ],
+                            }),
+                        ],
+                        width: { size: 100, type: WidthType.PERCENTAGE },
+                    }),
+                ],
+            },
+        ],
+    });
+
+    const buffer = await Packer.toBuffer(doc);
+    fs.writeFileSync('Assignment1.docx', buffer);
+    console.log('Document created successfully');
+}
+
+createDocument().catch(err => console.error('Error creating document:', err));
