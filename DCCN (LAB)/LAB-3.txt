@@ -1,0 +1,56 @@
+yes
+
+transmissions from client and acknowledgements from Server 
+
+client Port: 55604
+client IP: 10.135.41.28
+
+
+Destination Port: 80
+Server IP: 128.119.245.12
+
+only TCP trace available now no other protocols
+
+Sequence Number: 0    (relative sequence number)
+
+
+Sequence Number: 0    (relative sequence number) ACK 1
+
+
+Sequence Number: 2    (relative sequence number) first push
+
+SERVER: [Calculated window size: 29200]
+SERVER: [Calculated window size: 238]
+Client: [Calculated window size: 65535]
+Client: [Calculated window size: 255]
+
+blacklines of retransmission
+
+7832,2902,1460
+
+
+it starts slow and then speedup each dot is a transmission
+
+--UDP
+
+4 : 
+Source Port: 55653
+Destination Port: 53
+Length: 47
+Checksum: 0xabc5 [unverified]
+
+16bits 2bytes each field of header
+
+57
+
+(2^16 -1) - 8 bytes => 65535 - 8
+
+65535 max port number
+
+
+
+
+--ICMP
+
+
+

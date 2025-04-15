@@ -1,0 +1,86 @@
+Lab 6
+RIP (Router Information Protocol)
+
+- Classful Routing
+Network Address / Subnet Mask
+
+Class A /8	1-127
+Class B /16	128-191
+Class C /24	192-223
+Class D /-
+
+165.66.0.0/16
+
+-->  165.66.0.0/24
+
+Mask Customized ==>> Classless Address
+
+
+RIP Doesn't Allow Classless Addressing
+OSPF Does Allow Classless Addressing.
+
+While Configuring RIP We don't Give Subnet Mask.
+
+Host Bits all zero = Network Addre
+Host Bits all Ones = Largest (Broadcast)
+
+
+Network A:
+200.100.50.0/24
+R1=50.1
+Alice=PC1=50.2
+Charlie=PC2=50.3
+
+Network B:
+200.100.60.0/24
+PC1=60.2
+PC2=60.3
+
+R1-R2:
+200.100.70.0/24
+
+
+R2-R3:
+200.100.80.0/24
+
+R1(Config)# router rip
+R1(Config)# network 200.100.50.0
+R1(Config)# network 200.100.70.0
+
+R2(Config)# router rip network 200.100.70.0
+R2(Config)# router rip network 200.100.80.0
+
+
+
+
+show ip route
+
+ IP [Num(Administriative Distance(Priorityof path))/den(Cost)]
+
+
+Cost in RIP = Hop Count
+RIP Priority =120
+OSPF =110
+Lower is better
+
+
+Steps:
+1. Network Addressing/Topology On Paper ==> Table
+
+2.Topology On Packet Tracer 
+
+
+
+
+
+
+FLSM:
+192.
+
+
+VLSM:
+Do subnet masking of topology using VLSM
+TABLE:
+BLOCK SIZE	PREFIX		MASK 	NA 	BA
+
+

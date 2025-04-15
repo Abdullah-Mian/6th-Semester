@@ -1,0 +1,104 @@
+one-line summary for each packet captured,
+packet number
+packet’s source and destination addresses
+protocol type,
+and protocol-specific information contained in the packet
+
+HTTP/1.1
+
+en-US
+
+192.168.18.103
+
+128.119.245.12
+
+1834bytes
+
+MyPort: 50943
+Google: 80
+
+0.244714000 seconds
+
+Date: Tue, 25 Feb 2025 16:03:49 GMT\r\n
+
+--SMTP
+
+Client Port: 1713
+Client: 192.168.0.12
+
+Server Port: 25
+Server: 192.168.0.13
+
+FROM: <martin.tor@4salet.com>
+
+TO: <bert.manly@five8nine.com>
+
+Date: Mon, 11 Mar 2013 22:10:34 -0000\r\n
+
+Subject: T2theS4gSSB0aGluayBpdCBpcyBhbGwgc2V0dXAgZm9yIHlvdS4gSnVzdCBjb25uZWN0IHRvIHRoZSBsaW5rLCBhbmQgaXQgc2hvdWxkIGJlIGZpbmUu
+MESSAGE: \tcharset="iso-8859-1";\r\n
+
+
+Command Line: QUIT\r\n
+
+
+--POP3
+
+Server Port: 110
+Server IP: 212.227.15.166
+
+Client PORT: 26304
+Client IP: 192.168.0.4
+
+Response description: mailbox "digitalinvestigator@networksims.com" has 3 messages (19191 octets) H mimap13
+
+3
+
+Request command: RETR e.g (RETR 1) or (RETR 2)
+
+From: 1&1 Internet Ltd. <support@1and1.co.uk>, 1 item
+Subject: A message from 1&1 Internet
+
+Request command: RETR e.g (RETR 1) or (RETR 2)
+
+--DNS
+
+PS C:\Users\aabdu> nslookup www.google.com
+Server:  UnKnown
+Address:  fe80::1
+Non-authoritative answer:
+Name:    www.google.com
+Addresses:  2a00:1450:4018:807::2004
+          142.250.201.132
+
+
+PS C:\Users\aabdu> nslookup –type=NS www.google.com
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  2a00:1450:4018:807::2004
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+*** Request to UnKnown timed-out
+PS C:\Users\aabdu>
+
+
+PS C:\Users\aabdu> nslookup www.hotmail.com 8.8.8.8
+Server:  dns.google
+Address:  8.8.8.8
+Non-authoritative answer:
+Name:    a-0010.a-msedge.net
+Addresses:  2620:1ec:c11::212
+          204.79.197.212
+Aliases:  www.hotmail.com
+          outlook-fd-0010.live.com
+PS C:\Users\aabdu>
+
+
+PS C:\Users\aabdu> ipconfig /flushdns
+Windows IP Configuration
+Successfully flushed the DNS Resolver Cache.
+PS C:\Users\aabdu>
+

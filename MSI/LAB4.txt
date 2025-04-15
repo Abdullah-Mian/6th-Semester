@@ -1,0 +1,54 @@
+;TASK 1
+START:
+    MOV CL, 0B4H      
+    MOV DH, 0          
+    MOV AX, 8          
+
+COUNT_ONE:
+    SHR CL, 1          
+    JNC SKIP_INC       
+    INC DH              
+
+SKIP_INC: 
+    LOOP COUNT_ONE      
+
+END START
+;10110100
+
+
+;TASK 2
+
+
+START:
+    MOV AH, 0B5H      
+    MOV BL,0   
+    SHR AH,1
+    
+JC ODD
+
+JNC EVEN
+
+ODD:
+    MOV BL,1   
+          
+EVEN:
+          
+END START              
+
+;TASK 3
+
+START:
+MOV AL,0B5H
+MOV AH,0B6H
+MOV BL,0C6H
+MOV BH,0B7H  
+          
+ADDITION:
+    ADD AX,BX
+
+SHR AX,2
+
+MOV CX,AX
+          
+END START              
+
